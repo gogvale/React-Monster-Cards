@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { CardList } from './components/CardList/card-list.component';
-
+import { SearchBox } from './components/Search/search-box.component'
 class App extends React.Component {
   constructor() {
     super();
@@ -13,6 +13,8 @@ class App extends React.Component {
   render() {
     return (
       <div className='App'>
+        <h1>Robots Roledex</h1>
+        <SearchBox />
         {<CardList monsters={this.state.monsters} />}
       </div>
     )
