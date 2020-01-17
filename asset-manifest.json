@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Monster-Cards/static/css/main.c10ad147.chunk.css",
-    "main.js": "/React-Monster-Cards/static/js/main.8b41b3cd.chunk.js",
-    "main.js.map": "/React-Monster-Cards/static/js/main.8b41b3cd.chunk.js.map",
+    "main.css": "/React-Monster-Cards/static/css/main.75cd5053.chunk.css",
+    "main.js": "/React-Monster-Cards/static/js/main.c496e114.chunk.js",
+    "main.js.map": "/React-Monster-Cards/static/js/main.c496e114.chunk.js.map",
     "runtime-main.js": "/React-Monster-Cards/static/js/runtime-main.1eeb91d5.js",
     "runtime-main.js.map": "/React-Monster-Cards/static/js/runtime-main.1eeb91d5.js.map",
     "static/js/2.9e7d0785.chunk.js": "/React-Monster-Cards/static/js/2.9e7d0785.chunk.js",
     "static/js/2.9e7d0785.chunk.js.map": "/React-Monster-Cards/static/js/2.9e7d0785.chunk.js.map",
     "index.html": "/React-Monster-Cards/index.html",
-    "precache-manifest.1211353c640db6c0309de9ddaaf53ffd.js": "/React-Monster-Cards/precache-manifest.1211353c640db6c0309de9ddaaf53ffd.js",
+    "precache-manifest.f8ad9d56f0816a6fa0796d50955adacf.js": "/React-Monster-Cards/precache-manifest.f8ad9d56f0816a6fa0796d50955adacf.js",
     "service-worker.js": "/React-Monster-Cards/service-worker.js",
-    "static/css/main.c10ad147.chunk.css.map": "/React-Monster-Cards/static/css/main.c10ad147.chunk.css.map",
+    "static/css/main.75cd5053.chunk.css.map": "/React-Monster-Cards/static/css/main.75cd5053.chunk.css.map",
     "static/js/2.9e7d0785.chunk.js.LICENSE": "/React-Monster-Cards/static/js/2.9e7d0785.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.1eeb91d5.js",
     "static/js/2.9e7d0785.chunk.js",
-    "static/css/main.c10ad147.chunk.css",
-    "static/js/main.8b41b3cd.chunk.js"
+    "static/css/main.75cd5053.chunk.css",
+    "static/js/main.c496e114.chunk.js"
   ]
 }
